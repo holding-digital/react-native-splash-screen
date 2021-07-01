@@ -6,10 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/crazycodeboy/react-native-splash-screen.git"
-  },
   "keywords": [
     "react-native",
     "react-native-component",
